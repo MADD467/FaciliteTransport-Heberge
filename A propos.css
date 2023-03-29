@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Phudu:wght@300&family=Roboto+Condensed:wght@300&display=swap");
+
+body
+{
+    color: black;
+    background-color: gray;
+    font-family: 'Roboto Condensed', sans serif;
+}

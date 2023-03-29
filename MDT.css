@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Phudu:wght@300&family=Roboto+Condensed:wght@300&display=swap");
+
+
+body
+{
+    background-color: gray;
+    font-family: 'Roboto Condensed';
+}
+
+h1
+{
+    font-size: 35px;
+    text-align: center;
+}
+
+li
+{
+    list-style-type: none;
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 30px;
+    margin: 10%;
+    background-color: lightslategray;
+    text-decoration: none;
+    font-size: 35px;
+
+}
+
+a
+{
+    color: black;
+}
+
+a:hover
+{
+    opacity: 0.5;
+    color: blanchedalmond;
+}
